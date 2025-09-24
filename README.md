@@ -37,7 +37,9 @@ Start with Avalara API MCP Server for general interactions, then add Avalara Kno
 
 | Server | Description |                                                                                    Install |
 | :------ | :----------: |-------------------------------------------------------------------------------------------:|
-| [Avalara Knowledge MCP Server](https://devtest.developer.ci.avalara.io/mcp-servers/) | Remote server surfacing the latest Avalara docs, API references, guides, and updates. |                                                                            VS Code: Cursor 
+| [Avalara Knowledge MCP Server](https://devtest.developer.ci.avalara.io/mcp-servers/) | Remote server surfacing the latest Avalara docs, API references, guides, and updates. |                                                                            [![Install in VS Code](https://img.shields.io/badge/VS%20Code-Install%20MCP-007ACC?logo=visualstudiocode&logoColor=white)](vscode:mcp/install?name=avalara.knowledge-mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.example.com%2Fmcp%22%7D)[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20MCP-000000?logo=cursor&logoColor=white)](cursor://mcp/install?name=avalara.knowledge-mcp&config=eyJ0eXBlIjoiaHR0cCIsInVybCI6Imh0dHBzOi8vbWNwLmV4YW1wbGUuY29tL21jcCJ9)
+
+  
 
 
 
