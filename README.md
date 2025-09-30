@@ -29,17 +29,14 @@ To connect to Avalara MCP servers, you need to have:
 
 ### How to connect:
 
-**Step 1: Install the server**
-* **Installation**: Follow the configuration steps mentioned on the MCP server details page for your specific MCP client
+**Step 1: Set up the MCP client**  
+Follow the steps provided on the individual MCP server pages.
 
-**Step 2: Authorize the access**     
+**Step 2: Authorize access**     
 * When prompted, your **MCP client** redirects you to Avalara's secure sign in page
 * **Sign in** with your Avalara credentials
 * **Review the permissions** requested by the client for access to specific MCP server capabilities
 * **Grant consent** to complete the OAuth flow  
-
-**Step 3: Start using**
-* **MCP Clients**: Follow your client's specific activation instructions.
 
 ## Available Servers
 
@@ -55,7 +52,12 @@ Start with Avalara API MCP Server for general interactions, then add Avalara Kno
 
 
 
-
+### Troubleshooting common issues:
+* **Connection failed**: Verify your Avalara account status and internet connection.
+* **Permission denied**: Make ensure your account has access to the requested services.
+* **HTTP 429 (Too Many Requests)**: You've exceeded the server's rate limit.
+* Wait a few minutes before retrying.
+* Check the server's rate limit details on its individual page.
   
 
 
