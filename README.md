@@ -1,5 +1,7 @@
 
 # <img src="A-Check.png" alt="A-Check" width="60"> Avalara
+
+**This is a non-community repo, created and maintained by Avalara**
 ___
 
 ## Avalara MCP Servers
