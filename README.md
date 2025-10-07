@@ -1,5 +1,9 @@
 
+# <img src="A-Check.png" alt="A-Check" width="60"> Avalara
+___
+
 ## Avalara MCP Servers
+
 
 [MCP (Model Context Protocol)](https://modelcontextprotocol.io/docs/getting-started/intro)   servers connect AI applications with Avalara's tax compliance systems in a standardized way. MCP servers allow partners and developers to integrate AI-driven tax workflows, automate cross-border compliance, and access Avalara's regularly updated tax content.  
 Avalara-supported MCP servers include AvaTax, Returns, E-Invoicing and Live Reporting, Tax Registrations and Business Licenses and Exemption Certificate Management. More services will be added over time.
