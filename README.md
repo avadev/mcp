@@ -9,7 +9,7 @@ ___
 
 [MCP (Model Context Protocol)](https://modelcontextprotocol.io/docs/getting-started/intro)   servers connect AI applications with Avalara's tax compliance systems in a standardized way. MCP servers allow partners and developers to integrate AI-driven tax workflows, automate cross-border compliance, and access Avalara's regularly updated tax content.  
 
-Avalara-supported MCP servers include AvaTax, Returns, E-Invoicing and Live Reporting, Tax Registrations and Business Licenses and Exemption Certificate Management, Cross Border Trade. More services will be added over time.
+Avalara-supported MCP servers include AvaTax, Returns, E-Invoicing and Live Reporting, Tax Registrations and Business Licenses and Exemption Certificate Management, Cross Border Trade, and Tax Content. More services will be added over time.
 
 
 
@@ -56,6 +56,7 @@ Follow the steps provided on the individual MCP server pages.
 | [Avalara E-Invoicing & Live Reporting MCP Server](https://developer.avalara.com/mcp-servers/E-Invoicing/) | MCP server providing AI agents access to Avalara's global e-invoicing and live reporting APIs for retrieving document statuses, downloading legal/compliant documents, and enabling seamless compliance across jurisdictions worldwide. | <a href="https://cursor.com/en/install-mcp?name=avalara-elr&config=eyJ1cmwiOiJodHRwczovL21jcC5hdmFsYXJhLmNvbS9lLWludm9pY2luZyJ9"><img src="https://developer.avalara.com/_next/static/images/cusrsorinstalldark-38837d7218a6c5107baf81b454bddd11.svg" alt="Add to Cursor"></a> |
 | [Avalara Exemption Certificates MCP Server](https://developer.avalara.com/mcp-servers/exemption-certificate-management/) | Provides access to the Avalara Exemption Certificate Management API for managing certificates, customer profiles, and company data. | <a href="https://cursor.com/en/install-mcp?name=avalara-ecm&config=eyJ1cmwiOiJodHRwczovL21jcC5hdmFsYXJhLmNvbS9leGVtcHRpb24tY2VydGlmaWNhdGVzIn0%3D"><img src="https://developer.avalara.com/_next/static/images/cusrsorinstalldark-38837d7218a6c5107baf81b454bddd11.svg" alt="Add to Cursor"></a> |
 | [Avalara Cross-Border MCP Server](https://developer.avalara.com/mcp-servers/cross-border/) | The Cross-Border Trade Services MCP server supports AI agents by providing tools to perform cross-border transactions, including duty calculations, and access to Trade and Tariff content libraries (including import trade restrictions). | <a href="https://cursor.com/en/install-mcp?name=avalara-cross-border&config=eyJ1cmwiOiJodHRwczovL21jcC5hdmFsYXJhLmNvbS9jcm9zcy1ib3JkZXIifQ%3D%3D"><img src="https://developer.avalara.com/_next/static/images/cusrsorinstalldark-38837d7218a6c5107baf81b454bddd11.svg" alt="Add to Cursor"></a> |
+| [Avalara Tax Content MCP Server](https://developer.avalara.com/mcp-servers/atc/) | Provides access to Avalara Tax Content (ATC) data, including Transaction Tax Export (TTE) Configurations, Jobs, Communications and User Defined Functions for Lodging and Autorental. | <a href="https://cursor.com/en/install-mcp?name=avalara-atc&config=eyJ1cmwiOiJodHRwczovL21jcC5hdmFsYXJhLmNvbS9hdGMifQ%3D%3D"><img src="https://developer.avalara.com/_next/static/images/cusrsorinstalldark-38837d7218a6c5107baf81b454bddd11.svg" alt="Add to Cursor"></a> |
 
 
 ### Troubleshooting common issues:
